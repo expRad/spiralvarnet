@@ -5,7 +5,7 @@ This repository is accompanying the publication
 Real-time cardiac MRI using an undersampled spiral k-space trajectory and a reconstruction based on a Variational Network
 by 
 Jonas Kleineisel, Julius F. Heidenreich, Philipp Eirich, Nils Petri, Herbert Köstler, Bernhard Petritsch, Thorsten A. Bley, Tobias Wech
-in Magnetic Resonance in Medicine, Vol XXX, p. XXX, 202X
+in Magnetic Resonance in Medicine 2022
 
 which introduces a new reconstruction method of undersampled spiral MR data by means of a Variational Network (VN).
 
