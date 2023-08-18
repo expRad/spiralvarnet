@@ -30,9 +30,10 @@ We recommend using Anaconda to create a virtual environment and install these pa
 
 ### REFERENCES
 
-Part of the code, in particular the U-Net, is modified from the fastMRI repository, available at https://github.com/facebookresearch/fastMRI.
+Part of the code, in particular the U-Net, is modified from the fastMRI repository, available at https://github.com/facebookresearch/fastMRI. It is released under the MIT license.
 
-The code for the openadapt-algorithm for computing coil sensitivity maps is adapted from https://github.com/andyschwarzl/gpuNUFFT/blob/master/matlab/demo/utils/adapt_array_2d.m and the procedure is originally described in
+The code for the openadapt-algorithm for computing coil sensitivity maps is adapted from https://github.com/andyschwarzl/gpuNUFFT/blob/master/matlab/demo/utils/adapt_array_2d.m, where it is released under the MIT license.
+The procedure is originally described in
 D. O. Walsh, A. F. Gmitro, and M. W. Marcellin, “Adaptive reconstruction of phased array MR imagery,” Magnetic Resonance in Medicine, vol. 43, no. 5, pp. 682–690, May 2000. doi:10.1002/(sici)1522-2594(200005)43:5h682::aid-mrm10i3.0.co;2-g
 and 
 Mark Griswold, David Walsh, Robin Heidemann, Axel Haase, Peter Jakob, "The Use of an Adaptive Reconstruction for Array Coil Sensitivity Mapping and Intensity Normalization", Proceedings of the Tenth Scientific Meeting of the International Society for Magnetic Resonance in Medicine pg 2410 (2002)
@@ -40,4 +41,4 @@ Mark Griswold, David Walsh, Robin Heidemann, Axel Haase, Peter Jakob, "The Use o
 
 ### LICENSE
 
-Copyright with the authors. All rights reserved.
+This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.
